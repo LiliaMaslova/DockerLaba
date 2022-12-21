@@ -1,5 +1,5 @@
 # DockerLaba
 To initialize:
-docker build -t 'dockerLaba' .
+docker build -t 'dockerlaba' .
 To run:
-docker run -d -p 3000:3000 'dockerLaba'
+docker run -d -p 3000:3000 'dockerlaba'
